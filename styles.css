@@ -1,0 +1,32 @@
+h1  h3 {
+    color:chartreuse;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: disc;
+}
+
+li {
+    color:black
+}
+
+p {
+    border: 1px solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: crimson;
+}
+
+#hall {
+    background-color: azure;
+}
+
+.lahh {
+    background-color: blueviolet;
+}
